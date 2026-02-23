@@ -4,6 +4,7 @@ import ProjectsSection from '@/components/ProjectsSection';
 import SkillsSection from '@/components/SkillsSection';
 import ContactSection from '@/components/ContactSection';
 import NavBar from '@/components/NavBar';
+import Footer from '@/components/Footer';
 import type { Project, Skill } from '@/lib/types';
 
 const DEVELOPER_NAME = 'Izrael';
@@ -44,6 +45,7 @@ export default function Home() {
         <SkillsSection skills={SKILLS} />
         <ContactSection />
       </main>
+      <Footer />
     </>
   );
 }
