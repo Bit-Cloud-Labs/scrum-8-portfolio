@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+f150a1d1112da79674c7316272ade1a3431e0106 refs/heads/feature/SCRUM-8-506f2a53
+119483b7761abc0d215fa3225d6adbea54a1bd3c refs/heads/feature/SCRUM-8-8e9c9e4c
+8a427b2a6950af368a26144dcd7231d4f4a10bdb refs/heads/feature/SCRUM-8-agent-development
+c7ff3a991ac31e706b78d1365b65c0730df36fa1 refs/heads/main

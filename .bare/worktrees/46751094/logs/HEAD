@@ -1,0 +1,4 @@
+c7ff3a991ac31e706b78d1365b65c0730df36fa1 c7ff3a991ac31e706b78d1365b65c0730df36fa1 app <app@c858c5d38de3.(none)> 1771883523 +0000	reset: moving to HEAD
+c7ff3a991ac31e706b78d1365b65c0730df36fa1 e4a8194903b69591c36088f3a6fccb84c6092fa3 agent-runner <agent-runner@openclaw.internal> 1771883602 +0000	commit: SCRUM-8: RED phase - add failing skillsData test (src/data/skills.ts missing)
+e4a8194903b69591c36088f3a6fccb84c6092fa3 6c225cf5f73382db953c24ee5cc18f3682ed7f02 agent-runner <agent-runner@openclaw.internal> 1771883690 +0000	commit: SCRUM-8: GREEN phase - add skills seed data (src/data/skills.ts)
+6c225cf5f73382db953c24ee5cc18f3682ed7f02 c5cdb564fb6fd52e80783ed34dc49431e206dc64 agent-runner <agent-runner@openclaw.internal> 1771883881 +0000	commit: SCRUM-8: RED phase - add isValidUrl tests to validators.test.ts (failing)

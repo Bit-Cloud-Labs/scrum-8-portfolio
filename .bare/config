@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/Bit-Cloud-Labs/scrum-8-portfolio.git
+	tagOpt = --no-tags
+[user]
+	name = agent-runner
+	email = agent-runner@openclaw.internal
+[branch "feature/SCRUM-8-46751094"]
+	remote = origin
+	merge = refs/heads/feature/SCRUM-8-46751094
