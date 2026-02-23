@@ -2,11 +2,11 @@
  * Utility functions for validating user-supplied form values.
  */
 
+const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
 /** Returns true if the value is a syntactically valid email address. */
 export function isValidEmail(value: string): boolean {
-  if (!value || value.length === 0) return false;
-  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  return emailRegex.test(value);
+  return EMAIL_REGEX.test(value);
 }
 
 /** Returns true if the value is a non-empty string after trimming whitespace. */
